@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/MlikiMelek/static/js/runtime~main.2636758d.js"
   },
   {
-    "revision": "f43dd6cdd47b0b03a953",
-    "url": "/MlikiMelek/static/js/main.f43dd6cd.chunk.js"
+    "revision": "bba39b5b3bd27a2a10d7",
+    "url": "/MlikiMelek/static/js/main.bba39b5b.chunk.js"
   },
   {
     "revision": "f739feb7d61c48a46bed",
     "url": "/MlikiMelek/static/js/1.f739feb7.chunk.js"
   },
   {
-    "revision": "f43dd6cdd47b0b03a953",
+    "revision": "bba39b5b3bd27a2a10d7",
     "url": "/MlikiMelek/static/css/main.cad4d9f4.chunk.css"
   },
   {
-    "revision": "a2d06fe45acb51038466d3e9f2e593ba",
+    "revision": "7ce4309e0f8c26c62fdd3ebbf16e562e",
     "url": "/MlikiMelek/index.html"
   }
 ];
