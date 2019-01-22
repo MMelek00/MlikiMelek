@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MlikiMelek.github.io/precache-manifest.15013cee9d5c6061661283baec6713a1.js"
+  "/MlikiMelek/precache-manifest.6db486447ef81d8de6ea70b365fdacd2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/MlikiMelek.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/MlikiMelek/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
